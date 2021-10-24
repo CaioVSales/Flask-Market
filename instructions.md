@@ -5,3 +5,7 @@ How to set the FLASK_APP env?
 How to set the DEBUG mode on?
 
 -> $env:FLASK_DEBUG=1
+
+How to run the application?
+
+-> python run.py
